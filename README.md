@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @juliensale
+- 👀 I’m interested in Web Developement
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on React and/or Django projects
+- 📫 How to reach me? Contact me at sale.julien@protonmail.com
