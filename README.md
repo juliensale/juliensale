@@ -20,14 +20,22 @@
 <!-- Frontend -->
 
 <img align="left" src="./img/react-original.svg" alt="React" height="30" style="padding-right: 10px"/>
-<img align="left" src="./img/nextjs-original.svg" alt="Next.js" height="30" style="padding-right: 10px"/>
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="./img/nextjs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./img/nextjs-original.svg">
+	<img align="left" src="./img/nextjs-original.svg" alt="Next.js" height="30" style="padding-right: 10px"/>
+</picture>
 <img src="./img/materialui-original.svg" alt="Material UI" height="30" style="padding-right: 10px"/>
 
 <!-- Backend -->
 
 <img align="left" src="./img/nodejs-original.svg" alt="Node.js" height="30" style="padding-right: 10px"/>
 <img align="left" src="./img/nestjs.svg" alt="NestJS" height="30" style="padding-right: 10px"/>
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="./img/prisma-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./img/prisma.svg">
 <img align="left" src="./img/prisma.svg" alt="Prisma" height="30" style="padding-right: 10px"/>
+</picture>
 <img src="./img/django.svg" alt="Django" height="30" style="padding-right: 10px"/>
 
 <!-- Editor -->
@@ -40,4 +48,4 @@
 
 [<img align="left" src="./img/linkedin.svg" alt="Linkedin" height="30" style="padding-right: 10px"/>](https://linkedin.com/in/julien-salé)
 [<img align="left" src="./img/stackoverflow.svg" alt="Stack Overflow" height="30" style="padding-right: 10px"/>](https://stackoverflow.com/users/14844995/julien-s)
-[<img src="./img/website.svg" alt="Portfolio" height="30" />](https://julien-sale.dev)
+[<picture><source media="(prefers-color-scheme: light)" srcset="./img/website.svg"><source media="(prefers-color-scheme: dark)" srcset="./img/website-dark.svg"><img alt="Website icon" src="./img/website.svg"></picture> ](https://julien-sale.dev)
