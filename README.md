@@ -14,16 +14,22 @@
 <img align="left" src="./img/css3-original.svg" alt="CSS 3" height="30" style="padding-right: 10px"/>
 <img align="left" src="./img/javascript-original.svg" alt="Javascript" height="30" style="padding-right: 10px"/>
 <img src="./img/python-original.svg" alt="Python" height="30" style="padding-right: 10px"/>
-<br/>
+
+&nbsp;
+
 <img align="left" src="./img/react-original.svg" alt="React" height="30" style="padding-right: 10px"/>
 <img align="left" src="./img/nextjs-original.svg" alt="Next.js" height="30" style="padding-right: 10px"/>
 <img src="./img/materialui-original.svg" alt="Material UI" height="30" style="padding-right: 10px"/>
-<br/>
+
+&nbsp;
+
 <img align="left" src="./img/nodejs-original.svg" alt="Node.js" height="30" style="padding-right: 10px"/>
 <img align="left" src="./img/nestjs.svg" alt="NestJS" height="30" style="padding-right: 10px"/>
 <img align="left" src="./img/prisma.svg" alt="Prisma" height="30" style="padding-right: 10px"/>
 <img src="./img/django.svg" alt="Django" height="30" style="padding-right: 10px"/>
-<br/>
+
+&nbsp;
+
 <img align="left" src="./img/vscode-original.svg" alt="Visual Studio Code" height="30" style="padding-right: 10px"/>
 <img src="./img/vim-original.svg" alt="Vim" height="30" style="padding-right: 10px"/>
 <br/>
