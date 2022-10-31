@@ -46,6 +46,6 @@
 
 ### Check out my other profiles:
 
-[<img align="left" src="./img/linkedin.svg" alt="Linkedin" height="30" style="padding-right: 10px"/>](https://linkedin.com/in/julien-salé)
+[<img align="left" src="./img/linkedin.svg" alt="Linkedin" height="30" style="padding-right: 10px"/>](https://linkedin.com/in/julien-sale)
 [<img align="left" src="./img/stackoverflow.svg" alt="Stack Overflow" height="30" style="padding-right: 10px"/>](https://stackoverflow.com/users/14844995/julien-s)
 [<picture><source media="(prefers-color-scheme: light)" srcset="./img/website.svg"><source media="(prefers-color-scheme: dark)" srcset="./img/website-dark.svg"><img alt="Website icon" src="./img/website.svg" height="30" style="padding-right: 10px"></picture> ](https://julien-sale.dev)
